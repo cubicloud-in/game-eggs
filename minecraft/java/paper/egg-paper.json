@@ -14,11 +14,11 @@
         "pid_limit"
     ],
     "docker_images": {
-        "MC 1.7–1.12.2 (Java 8)": "ghcr.io\/ptero-eggs\/yolks:java_8",
-        "MC 1.13–1.16.5 (Java 11)": "ghcr.io\/ptero-eggs\/yolks:java_11",
-        "MC 1.17 (Java 16)": "ghcr.io\/ptero-eggs\/yolks:java_16",
-        "MC 1.18–1.20.4 (Java 17)": "ghcr.io\/ptero-eggs\/yolks:java_17",
         "MC 1.20.5+ (Java 21)": "ghcr.io\/ptero-eggs\/yolks:java_21",
+        "MC 1.18–1.20.4 (Java 17)": "ghcr.io\/ptero-eggs\/yolks:java_17",
+        "MC 1.17 (Java 16)": "ghcr.io\/ptero-eggs\/yolks:java_16",
+        "MC 1.13–1.16.5 (Java 11)": "ghcr.io\/ptero-eggs\/yolks:java_11",
+        "MC 1.7–1.12.2 (Java 8)": "ghcr.io\/ptero-eggs\/yolks:java_8",
         "(Java 22)": "ghcr.io\/ptero-eggs\/yolks:java_22"
     },
     "file_denylist": [],
